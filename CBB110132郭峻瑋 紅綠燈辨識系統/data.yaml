@@ -1,0 +1,7 @@
+
+train: C:/Users/aa321/Desktop/fin/train/images
+val: C:/Users/aa321/Desktop/fin/valid/images
+nc: 3
+names: ['red', 'yellow', 'green']
+    
+    

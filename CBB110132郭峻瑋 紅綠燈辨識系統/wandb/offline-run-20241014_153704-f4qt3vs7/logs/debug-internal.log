@@ -1,0 +1,16 @@
+{"time":"2024-10-14T15:37:04.9158731+08:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-14T15:37:04.9158731+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\aa321\\Desktop\\dataset\\wandb\\offline-run-20241014_153704-f4qt3vs7\\logs\\debug-core.log"}
+{"time":"2024-10-14T15:37:05.1004114+08:00","level":"INFO","msg":"created new stream","id":"f4qt3vs7"}
+{"time":"2024-10-14T15:37:05.1004114+08:00","level":"INFO","msg":"stream: started","id":"f4qt3vs7"}
+{"time":"2024-10-14T15:37:05.1004114+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"f4qt3vs7"}}
+{"time":"2024-10-14T15:37:05.1004114+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"f4qt3vs7"}}
+{"time":"2024-10-14T15:37:05.1004114+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f4qt3vs7"}}
+{"time":"2024-10-14T15:37:05.1097318+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-14T15:37:05.1113351+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-14T15:37:10.2581277+08:00","level":"INFO","msg":"stream: closing","id":"f4qt3vs7"}
+{"time":"2024-10-14T15:37:10.2581277+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-14T15:37:10.2653969+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-14T15:37:10.2659108+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"f4qt3vs7"}}
+{"time":"2024-10-14T15:37:10.2659108+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"f4qt3vs7"}}
+{"time":"2024-10-14T15:37:10.2659108+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"f4qt3vs7"}}
+{"time":"2024-10-14T15:37:10.2659108+08:00","level":"INFO","msg":"stream: closed","id":"f4qt3vs7"}
